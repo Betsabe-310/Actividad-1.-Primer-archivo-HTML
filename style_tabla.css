@@ -1,0 +1,41 @@
+.centrar{
+    text-align: center;
+}
+.sinborde{
+    border: 0px solid black;
+}
+th, td{
+    border: 1px solid black;
+}
+table {
+    border-collapse: collapse;
+    text-align: center;
+    margin: 10px auto 30px auto;
+  }
+.colorsencilla{
+    background-color: #F6E3CE;
+}
+.colorCC1{
+    background-color:#DBA901 ;
+}
+.colorCC2{
+    background-color:#F5DA81 ;
+}
+.rojo{
+    color: red;
+    tex
+}
+.colorccr{
+    background-color: #A4A4A4;
+}
+.colorccr1{
+    background-color: #F2F2F2;
+}
+.letra{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.orientacion{
+    transform: rotate(-45deg);
+    height: 100px;
+    width: 50px;
+}
